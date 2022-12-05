@@ -1,11 +1,11 @@
 const dataMind = [
 {
     key: "Estudar programação por 30 minutos",
-    value: "Estudar programaçãp por 30 minutos",
+    value: "Estudar programação por 30 minutos",
 },
 {
     key: "Estudar programação por 60 minutos",
-    value: "Estudar programaçãp por 60 minutos",
+    value: "Estudar programação por 60 minutos",
 },
 {
     key: "Ler um livro por 15 minutos",
