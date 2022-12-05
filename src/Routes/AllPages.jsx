@@ -4,7 +4,7 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import Start from "../Pages/Start";
 import AppExplanation from "../Pages/AppExplanation";
 import Home from "../Pages/Home"
-import HabitPage from "../Pages/HabitPages";
+import HabitPage from "../Pages/HabitPage";
 
 const Stack = createNativeStackNavigator();
 
